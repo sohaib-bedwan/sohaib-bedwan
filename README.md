@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sohaib-bedwan
+- 👀 I’m interested in web devlopment with (PHP, Laravel, Ajax, HTML5m CSS, JQuery, Bootstrap)
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on ...
+- 📫 sohabadwa@gmail.com
